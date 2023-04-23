@@ -1,0 +1,14 @@
+Notepad++ plugin
+
+
+https://github.com/earthlcd/ezLCD-5x/tree/master/_Notepad%2B%2B_plugin
+
+
+
+--
+
+RESP
+
+https://github.com/earthlcd/ezLCD-5x
+
+--
